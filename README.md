@@ -5,7 +5,7 @@ The 5 problems
 
 (The following problems are ridiculously simple, but you'd be surprise to discover how many people struggle with them. To the point of not getting anything done at all. Seriously.)
 
-##Problem 1
+###Problem 1
 
 Write three functions that compute the sum of the numbers in a given list using a for-loop, a while-loop, and recursion.
 
