@@ -4,14 +4,14 @@
  *     This software is the confidential and proprietary information of HERE Inc.
  *     You shall not disclose such confidential information and shall use it only in
  *     accordance with the terms of the license agreement you entered into with
- *     HERE Inc.
+ *     HERE Inc adding a comment for git testing!.
  */
 
 
 import java.util.Arrays;
 
 /**
- * @author Daniel Gordon <daniel.gordon@here.com>
+ * @author Daniel Gordon <dgordon8765@gmail.com>
  */
 public class CombineList {
     public static void main( String args[]) {
